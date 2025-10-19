@@ -1,0 +1,76 @@
+{
+  "subjects": [
+    {"title": "Analog Electronic Circuits",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "https://drive.google.com/drive/folders/1guzDbVKAJIoyUsltVV5cAgFULKYIBeHH?usp=drive_link",
+      "books":"https://drive.google.com/drive/folders/1gt25u1GpPZ_-D0tAjI4qpbauV4E3uhR1?usp=drive_link",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {"title": "Economics",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {"title": "Theory of Computations",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {"title": "Basic Electronics",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {"title": "English as Second Language",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {"title": "Application of Machine Learning in Biological Systems",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "subjects": [
+    {
+      "title": "Advanced Calculus",
+      "NPTEL": "www.youtube/link",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "mytutorial":"https://drive.google.com/drive/folders/1-jK7fY34f0GaURYDuZkMjPtUgbbqawU6?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Basic Engineering Mechanics",
+      "NPTEL": "https://youtube.com/playlist?list=PLOSWwFV98rfKXq2KBphJz95rao7q8PpwT&si=HqgEUCOwC1aW3Jy3",
+      "notes": "https://drive.google.com/drive/folders/1-jK7fY34f0GaURYDuZkMjPtUgbbqawU6?usp=sharing",
+      "resources": "https://drive.google.com/drive/folders/1QpRY4T9H4BoOpxnkYRso1HK04OQkUffP?usp=drive_link",
+      "books":"https://drive.google.com/file/d/1OThs2rjU_WNCBmmnHWcLIcCJQ0bqKbYD/view?usp=sharing",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1-jK7fY34f0GaURYDuZkMjPtUgbbqawU6?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Programming & Data Structure",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "mytutorial":"https://drive.google.com/drive/folders/1-jK7fY34f0GaURYDuZkMjPtUgbbqawU6?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Physics of Waves",
+      "NPTEL": "https://youtube.com/playlist?list=PL30D1917C52D9F9B9&si=zpA99da780-MpIJQ",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1isk5yssxTSrh2p4WmE_c8jnzmKhpodmp?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1K_I8wzlKRpvcez7FbpP5ewJLRolZzRoM?usp=drive_link",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Environmental Science",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "https://drive.google.com/drive/folders/1Q8Qy0gj_J3JLdeXsKTRh1T--MbEjD12G?usp=drive_link",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"drivelink",
+      "mytutorial":"drivelink",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Linear Algebra Numerical Analysis Complex Analysis",
+      "NPTEL": "www.youtube/link",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1FqWgRY_MIWSh34gP1JOrXKQyxTnfhfE3?usp=drive_link",
+      "mytutorial":"https://drive.google.com/file/d/1p7oxfP5J7sS0YzbHdAYcPJonmjoIBuFF/view?usp=drive_link",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Electrical Technology",
+      "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMngfdEXVcdf_ijj2Eub-UHs_y&si=WwyqKi2HkqxxkDOU",
+      "notes": "https://drive.google.com/drive/folders/1lqvkTpbUpL90wjF_pkQu-aPVeT5fVphO?usp=drive_link",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1pO6BkWwtA7Y7pPgkmWoJo3jYuEm_tub0?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1BWilqUWK4oQZwM1mWxz2Idlu0qGhY3ur?usp=drive_link",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    },
+    {
+      "title": "Science of Living Systems",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"drivelink",
+      "mytutorial":"drivelink",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "subjects": [
+    {"title": "Probability ans Statistics",
+      "NPTEL": "https://youtube.com/playlist?list=PL6C92B335BD4238AB&si=1oWzUJlh5KWd2zFG",
+      "notes": "https://drive.google.com/drive/folders/1EMVxnwbVUZr-0InCxZbcJbtQmPxFIpOs?usp=drive_link",
+      "resources": "https://youtube.com/playlist?list=PLO-6jspot8ALyrofp0fWp0fOb19NcFS4V&si=xCCJTN397E9rmVPx",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1cXi_hyIxheLIAETOd4I-rZmkwrs7M-dU?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1amXtT0ttUwPWNEDZM1e8u1unNbJtZrPx?usp=drive_link",
+      "videos": [{
+        "Transformation of a Random variable":"https://www.youtube.com/watch?v=zNZkfZytc_o&list=PLO-6jspot8ALyrofp0fWp0fOb19NcFS4V&index=36",
+        "Transformation of Two-Dimensional Random Variables":"https://youtu.be/lr_UEYqPvPQ?si=2ZqjHarFCk5nvaJC",
+        "Binomial Distribution":"https://www.youtube.com/watch?v=m5u4h0t4ico&list=PLO-6jspot8ALyrofp0fWp0fOb19NcFS4V&index=41",
+        "Gamma Distribution":"https://youtu.be/QrcpYoRzRNQ?si=WJ8m5EeOuZJRncbf"
+      }]
+    },
+
+    {"title": "Economics",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "https://drive.google.com/drive/folders/1ev6ZHL2H1Q7zk5e6lGBoGJJ5hlbihdw9?usp=drive_link",
+      "resources": "https://drive.google.com/drive/folders/1hBuGfvdZ6E490OV5MxNmyZWU9Sw1YukM?usp=drive_link",
+      "books":"https://drive.google.com/file/d/1hMvpsz3gexMmbQO2gldO7L33GLSSBAvR/view?usp=drive_link",
+      "tutorial":"drivelink",
+      "videos": []
+    },
+
+    {"title": "Theory of Computations",
+      "NPTEL": "http://www.facweb.iitkgp.ac.in/~ratna/TheoryComputation.html",
+      "notes": "https://drive.google.com/drive/folders/1HjkeUNahI9gO_X-T4Jfj5zkMsH571r8N?usp=drive_link",
+      "resources": "https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=yZdwDLA6jONUUqnH",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Minimization of DFA":"https://youtu.be/0XaGAkY09Wc ",
+        "Minimisation of DFA using Table Filling Method":"https://youtu.be/UiXkJUTkp44 ",
+        "DFA to Regular Expression":"https://youtu.be/DTSJxGuV9dM https://youtu.be/76y_heZTmhE",
+        "Homomorphism":"https://youtu.be/Q-HAP2Ade8I",
+        "Inverse Homomorphism":"https://youtu.be/vah_mUPXBbc?si=UlF7WLY85YYX4N4m",
+        "Pumping Lemma":"https://youtu.be/dikEDuepOtI?si=Ox8vw0_19Ra3Rbzm",
+        "Reduction of CFG":"https://youtu.be/EF09zxzpVbk?si=t6CDxgu7E_aCNVEs",
+        "Pushdown Automata (PDA), Language accepted by PDA":"https://www.youtube.com/watch?v=fc7wLWiDNBM&list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i&index=51",
+        "Construction of PDA from a CFG in GNF, alternative construction of PDA from a CFG not in GNF":"https://www.youtube.com/watch?v=G8L4w3suwU4",
+        "Context-free grammars (CFG), Context-free language (CFL), Derivation Tree, Parse Tree, Leftmost and Rightmost derivations, Ambiguity in CFG":"https://www.youtube.com/watch?v=eDAOxyZkl68",
+        "Simplification of CFG - Algorithms to construct a reduced grammar":"https://www.youtube.com/watch?v=EF09zxzpVbk",
+        "Chomsky Normal Form (CNF), Greibach Normal Form (GNF), conversion of CFG to CNF":"https://www.youtube.com/watch?v=FNPSlnj3Vt0"
+      }]
+    },
+
+    {"title": "Basic Electronics",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"drivelink",
+      "videos": []
+    },
+
+    {"title": "English as Second Language",
+      "NPTEL": "www.youtube/link",
+      "notes": "https://drive.google.com/drive/folders/1NctXds4QlhhIhGTqghJtJD13lcyIlxd-?usp=drive_link",
+      "resources": "https://drive.google.com/drive/folders/1fJgaqt9PHIC2pAWOfQ43W0_ofdL-ZcDA?usp=drive_link",
+      "books":"drivelink",
+      "tutorial":"drivelink",
+      "videos": []
+    },
+
+    {"title": "Application of Machine Learning in Biological Systems",
+      "NPTEL": "www.youtube/link/1456",
+      "notes": "drivelink",
+      "resources": "drivelink",
+      "books":"drivelink",
+      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
+      "videos": [{
+        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
+        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
+        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
+      }]
+    }
+  ]
+}
