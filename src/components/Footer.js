@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import { GraduationCap, Users, Mail, Phone } from 'lucide-react'
+import { Users, Mail, Phone } from 'lucide-react'
 
 const Footer = () => {
   const location = useLocation()

@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Plus, X, Send, CheckCircle, AlertCircle } from 'lucide-react';
 
-const scriptUrl = process.env.SHEET_URL || 'https://script.google.com/macros/s/AKfycbxTFO8USKR7eM39dV-TD46Miq0PhWpFuHAuAjdNWpOPAlR6kVuCBYaXkyTgNFHi48GJ/exec';
+const scriptUrl = process.env.REACT_APP_SHEET_URL;
 
 const Contri = () => {
     const formRef = useRef(null);
@@ -123,9 +123,9 @@ const Contri = () => {
                         </div>
                     </div>
 
-                    <div className="mb-6">
+                    <div className="mb-6 ">
                         <h3 className="text-lg font-semibold text-gray-800 mb-4">Study Materials</h3>
-                        <div className="space-y-4">
+                        <div className="space-y-4 text-left">
                             {subjects.map((subject, index) => (
                                 <div key={index} className="bg-gradient-to-br from-gray-50 to-gray-100 border-2 border-gray-200 rounded-xl p-6 relative shadow-sm hover:shadow-md transition duration-200">
                                     <div className="space-y-4 pr-10">

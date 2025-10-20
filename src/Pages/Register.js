@@ -125,7 +125,7 @@ const Register = () => {
             </div>
           )}
 
-          <form className="space-y-6" onSubmit={handleSubmit}>
+          <form className="space-y-6 text-left" onSubmit={handleSubmit}>
             {/* Username */}
             <div>
               <label className="block text-sm font-medium mb-1">Username</label>

@@ -26,7 +26,7 @@ const Login = () => {
 
 
   // API base URL - replace with your backend URL
-  const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000'
+  const API_BASE_URL = process.env.REACT_APP_API_URL
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -91,7 +91,7 @@ const Login = () => {
       <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
         <form
           onSubmit={handleSubmit}
-          className="bg-white py-8 px-4 shadow-lg sm:rounded-xl sm:px-10 border border-gray-200"
+          className="bg-white py-8 px-4 shadow-lg sm:rounded-xl sm:px-10 border border-gray-200 text-left"
         >
           <div className="space-y-6">
             {/* Username Input */}

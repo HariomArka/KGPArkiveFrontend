@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useContext } from 'react'
 import { Mail, Phone, Send, Users, MapPin, Clock, CheckCircle2 } from 'lucide-react'
+import { toast } from "react-toastify";
 import { useNavigate } from 'react-router-dom' // Add this import
 import { AuthContext } from '../context/AuthContext' // Add this import with correct path
 
@@ -36,11 +37,12 @@ const ContactUs = () => {
         setIsSubmitted(true);
         setFormData({ name: '', email: '', message: '' });
         setTimeout(() => setIsSubmitted(false), 3000);
+        toast.success('Message sent successfully!');
       } else {
-        alert(data.message || 'Failed to send message.');
+        toast.error(data.message || 'Failed to send message. Please try again later.');
       }
     } catch (err) {
-      alert('Something went wrong. Please try again.');
+      toast.error('Something went wrong. Please try again later.');
     } finally {
       setIsSubmitting(false);
     }
