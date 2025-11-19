@@ -16,7 +16,7 @@
     },
 
     {"title": "Economics",
-      "NPTEL": "www.youtube/link/1456",
+      "NPTEL": "",
       "notes": "https://drive.google.com/drive/folders/1ev6ZHL2H1Q7zk5e6lGBoGJJ5hlbihdw9?usp=drive_link",
       "resources": "https://drive.google.com/drive/folders/1hBuGfvdZ6E490OV5MxNmyZWU9Sw1YukM?usp=drive_link",
       "books":"https://drive.google.com/file/d/1hMvpsz3gexMmbQO2gldO7L33GLSSBAvR/view?usp=drive_link",
@@ -47,16 +47,16 @@
     },
 
     {"title": "Basic Electronics",
-      "NPTEL": "www.youtube/link/1456",
-      "notes": "drivelink",
-      "resources": "drivelink",
-      "books":"drivelink",
-      "tutorial":"drivelink",
+      "NPTEL": "",
+      "notes": "",
+      "resources": "",
+      "books":"",
+      "tutorial":"",
       "videos": []
     },
 
     {"title": "English as Second Language",
-      "NPTEL": "www.youtube/link",
+      "NPTEL": "",
       "notes": "https://drive.google.com/drive/folders/1NctXds4QlhhIhGTqghJtJD13lcyIlxd-?usp=drive_link",
       "resources": "https://drive.google.com/drive/folders/1fJgaqt9PHIC2pAWOfQ43W0_ofdL-ZcDA?usp=drive_link",
       "books":"drivelink",
@@ -65,16 +65,12 @@
     },
 
     {"title": "Application of Machine Learning in Biological Systems",
-      "NPTEL": "www.youtube/link/1456",
-      "notes": "drivelink",
-      "resources": "drivelink",
-      "books":"drivelink",
-      "tutorial":"https://drive.google.com/drive/folders/1y4zlcmSIubPiufRFEEDJtbc0OhNrXGsf?usp=sharing",
-      "videos": [{
-        "Topic1":"https://www.youtube.com/watch?v=aQf6Q8t1FQE",
-        "Topic2":"https://www.youtube.com/watch?v=W5cviLowZ1U",
-        "Topic3":"https://www.youtube.com/watch?v=qDZjRCUBMLg"
-      }]
+      "NPTEL": "",
+      "notes": "https://drive.google.com/drive/folders/13K5yZunT8wh7EdGr0g7msakmNHyH4e42?usp=sharing",
+      "resources": "https://drive.google.com/drive/folders/1OO0dRCNZffjSboS92GJCrWUdM8Z12o3t?usp=sharing",
+      "books":"https://drive.google.com/drive/folders/13K5yZunT8wh7EdGr0g7msakmNHyH4e42?usp=sharing",
+      "tutorial":"",
+      "videos": []
     }
   ]
 }
