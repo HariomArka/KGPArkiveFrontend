@@ -45,9 +45,7 @@
       "videos": []
     },
   
-  
-    {
-      "title": "Digital Signal Processing",
+    {"title": "Digital Signal Processing",
       "NPTEL": "",
       "notes": "https://drive.google.com/file/d/1vUxAS0PYAaFj-siHlrbyz3eKiNZcouoC/view?usp=sharing",
       "resources": "https://drive.google.com/drive/folders/1o79_1VqB3KC43ARnmh-Xbp69pvR3OzFt?usp=drive_link",
@@ -55,17 +53,17 @@
       "tutorial":"https://drive.google.com/drive/folders/1pSx3o8dqawtzPuZFHjlDW-KkrdgYT4W9?usp=drive_link",
       "videos": []
     },
-    {
-      "title": "Instrumentation Devices",
-      "NPTEL": "",
-      "notes": "",
-      "resources": "",
+
+    {"title": "Instrumentation Devices",
+      "NPTEL": "https://facweb.iitkgp.ac.in/~ashismaity/Instrumentation_Devices_Autumn_2025.html",
+      "notes": "https://drive.google.com/file/d/1nlFseSaCC-JnC9WYDw9DYFG04iblXpE-/view?usp=drive_link",
+      "resources": "https://drive.google.com/drive/folders/16bxA42u4wfv8kS1xO0HvceYz8mXMGi4-?usp=drive_link",
       "books":"https://drive.google.com/file/d/1xpXAILNRcI9CZO37OcfkQqZ0nqYu2Zpu/view?usp=drive_link",
       "tutorial":"https://drive.google.com/drive/folders/1Nm44BnYEJ_QrCotcty-JTyWtXk7sb9ru?usp=drive_link",
       "videos": []
     },
-    {
-      "title": "Control Systems Engineering",
+
+    {"title": "Control Systems Engineering",
       "NPTEL": "",
       "notes": "",
       "resources": "https://drive.google.com/drive/folders/1Fsq2ll5O2erQ3xIc3U0XFKjaAwg2NJ_b?usp=drive_link",
