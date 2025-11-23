@@ -4,71 +4,76 @@
       "NPTEL": "https://youtube.com/playlist?list=PLp6ek2hDcoNDAw1BehPFazZ5ogPV8UlQa&si=dle4xBjqKsM3E_hw",
       "notes": "https://drive.google.com/file/d/1lKc343XnKClf5q4tyEa-KTMPamipbwTH/view?usp=sharing",
       "resources": "https://drive.google.com/drive/folders/1guzDbVKAJIoyUsltVV5cAgFULKYIBeHH?usp=drive_link",
-      "books":"https://drive.google.com/drive/folders/1gt25u1GpPZ_-D0tAjI4qpbauV4E3uhR1?usp=drive_link",
-      "tutorial":"",
+      "books": "https://drive.google.com/drive/folders/1gt25u1GpPZ_-D0tAjI4qpbauV4E3uhR1?usp=drive_link",
+      "tutorial": "",
       "videos": []
     },
-
     {"title": "Signals and Systems",
       "NPTEL": "https://youtube.com/playlist?list=PLp6ek2hDcoNDAw1BehPFazZ5ogPV8UlQa&si=dle4xBjqKsM3E_hw",
       "notes": "https://drive.google.com/drive/folders/1_nuOvaGIl21JZE1k2fjVK98brqZ2rrBX?usp=sharing",
       "resources": "https://drive.google.com/drive/folders/1sCsxCIORnOoXbL6Za2UFLoWl6cltdTtJ?usp=drive_link",
-      "books":"https://drive.google.com/drive/folders/1gt25u1GpPZ_-D0tAjI4qpbauV4E3uhR1?usp=drive_link",
-      "tutorial":"",
+      "books": "https://drive.google.com/drive/folders/1gt25u1GpPZ_-D0tAjI4qpbauV4E3uhR1?usp=drive_link",
+      "tutorial": "",
       "videos": []
     },
-    
     {"title": "Network Analysis",
-    "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX&si=swdEhg8aCHpYKuki",
-    "notes": "https://drive.google.com/drive/folders/1oEEXSkOrve6CLSUDltcmlFqYNkxzBqY_?usp=sharing",
-    "resources": "https://drive.google.com/drive/folders/1Vsi5xiq_M54JIe0a-O8mDl4YGMt_Vy5u?usp=drive_link",
-    "books":"",
-    "tutorial":"https://drive.google.com/drive/folders/1gjbOHvaGA1IkR2AXGRFrTli_dXcaZM-K?usp=drive_link",
-    "videos": []
+      "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX&si=swdEhg8aCHpYKuki",
+      "notes": "https://drive.google.com/drive/folders/1oEEXSkOrve6CLSUDltcmlFqYNkxzBqY_?usp=sharing",
+      "resources": "https://drive.google.com/drive/folders/1Vsi5xiq_M54JIe0a-O8mDl4YGMt_Vy5u?usp=drive_link",
+      "books": "",
+      "tutorial": "https://drive.google.com/drive/folders/1gjbOHvaGA1IkR2AXGRFrTli_dXcaZM-K?usp=drive_link",
+      "videos": []
     },
 
     {"title": "Digital Electronic Circuits",
       "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX&si=swdEhg8aCHpYKuki",
       "notes": "https://drive.google.com/drive/folders/1D0L_5EEFwPjva8_7x8s9BKEKAqdXHCf0?usp=drive_link",
       "resources": "https://drive.google.com/drive/folders/1zf72I6IKBxlzUxM8PpPswAsHWKgGAOKR?usp=drive_link",
-      "books":"",
-      "tutorial":"https://drive.google.com/drive/folders/17XLvKg-qaw0ZlEb7GutquwbV-Jtk64nt?usp=drive_link",
+      "books": "",
+      "tutorial": "https://drive.google.com/drive/folders/17XLvKg-qaw0ZlEb7GutquwbV-Jtk64nt?usp=drive_link",
       "videos": []
     },
-
+    {"title": "Measurement and Electronic Instruments",
+      "NPTEL": "",
+      "notes": "https://drive.google.com/file/d/1vUxAS0PYAaFj-siHlrbyz3eKiNZcouoC/view?usp=sharing",
+      "resources": "https://drive.google.com/drive/folders/1LVDJmCsU3lxXCckSF-eCNh0iJQZJsMjR?usp=drive_link",
+      "books": "https://drive.google.com/file/d/1pp34Z0HC3af-PhqnBECnilhmv3_fPU1S/view?usp=drive_link",
+      "tutorial": "https://drive.google.com/drive/folders/1IlGbBJBz49bv-L1WWvQXOtK9ZOt62GRB?usp=drive_link",
+      "videos": []
+    },
     {"title": "Data Communication",
       "NPTEL": "",
       "notes": "",
       "resources": "",
-      "books":"",
-      "tutorial":"",
+      "books": "",
+      "tutorial": "",
       "videos": []
     },
-  
+
     {"title": "Digital Signal Processing",
       "NPTEL": "",
       "notes": "https://drive.google.com/file/d/1vUxAS0PYAaFj-siHlrbyz3eKiNZcouoC/view?usp=sharing",
       "resources": "https://drive.google.com/drive/folders/1o79_1VqB3KC43ARnmh-Xbp69pvR3OzFt?usp=drive_link",
-      "books":"https://drive.google.com/file/d/1J5EHF33YhheyfJ-8Ock43Dw_wVCNpOxO/view?usp=drive_link",
-      "tutorial":"https://drive.google.com/drive/folders/1pSx3o8dqawtzPuZFHjlDW-KkrdgYT4W9?usp=drive_link",
+      "books": "https://drive.google.com/file/d/1J5EHF33YhheyfJ-8Ock43Dw_wVCNpOxO/view?usp=drive_link",
+      "tutorial": "https://drive.google.com/drive/folders/1pSx3o8dqawtzPuZFHjlDW-KkrdgYT4W9?usp=drive_link",
       "videos": []
     },
-
     {"title": "Instrumentation Devices",
       "NPTEL": "https://facweb.iitkgp.ac.in/~ashismaity/Instrumentation_Devices_Autumn_2025.html",
       "notes": "https://drive.google.com/file/d/1nlFseSaCC-JnC9WYDw9DYFG04iblXpE-/view?usp=drive_link",
       "resources": "https://drive.google.com/drive/folders/16bxA42u4wfv8kS1xO0HvceYz8mXMGi4-?usp=drive_link",
-      "books":"https://drive.google.com/file/d/1xpXAILNRcI9CZO37OcfkQqZ0nqYu2Zpu/view?usp=drive_link",
-      "tutorial":"https://drive.google.com/drive/folders/1Nm44BnYEJ_QrCotcty-JTyWtXk7sb9ru?usp=drive_link",
+      "books": "https://drive.google.com/file/d/1xpXAILNRcI9CZO37OcfkQqZ0nqYu2Zpu/view?usp=drive_link",
+      "tutorial": "https://drive.google.com/drive/folders/1Nm44BnYEJ_QrCotcty-JTyWtXk7sb9ru?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1AiAxsibr3RyUV4TSHLVVSb4jzICltRbM?usp=drive_link",
       "videos": []
     },
-
     {"title": "Control Systems Engineering",
       "NPTEL": "",
-      "notes": "",
-      "resources": "https://drive.google.com/drive/folders/1Fsq2ll5O2erQ3xIc3U0XFKjaAwg2NJ_b?usp=drive_link",
-      "books":"",
-      "tutorial":"https://drive.google.com/drive/folders/17R3rP2MHRlpGEWDTHRptLD6xV1KNCkWl?usp=drive_link",
+      "notes": "https://drive.google.com/file/d/1rVXCnui0CFGnaswe2IssUSvUbUGJOCXn/view?usp=drive_link",
+      "resources": "https://drive.google.com/drive/folders/14nb1Zp8TpvdBMGRRcnxsBd1Y3aPFSUgD?usp=drive_link",
+      "books": "https://drive.google.com/file/d/1IMmHTVw3P6wul4t6r6sl7dHDhtJjWpWb/view?usp=drive_link",
+      "tutorial": "https://drive.google.com/drive/folders/17R3rP2MHRlpGEWDTHRptLD6xV1KNCkWl?usp=drive_link",
+      "mytutorial":"https://drive.google.com/drive/folders/1WYOFtkRKVymO9NjCCq3ucatfXqtqEP-k?usp=drive_link",
       "videos": []
     }
   ]

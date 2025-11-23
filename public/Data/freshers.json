@@ -1,7 +1,6 @@
 {
   "subjects": [
-    {
-      "title": "Advanced Calculus",
+    {"title": "Advanced Calculus",
       "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMngeVrxtbBz-n8HvP8KAWBpI5&si=NGhORrzuPyZ_Is3O",
       "notes": "drivelink",
       "resources": "drivelink",
@@ -12,8 +11,7 @@
         
       }]
     },
-    {
-      "title": "Basic Engineering Mechanics",
+    {"title": "Basic Engineering Mechanics",
       "NPTEL": "https://youtube.com/playlist?list=PLOSWwFV98rfKXq2KBphJz95rao7q8PpwT&si=HqgEUCOwC1aW3Jy3",
       "notes": "https://drive.google.com/drive/folders/1-jK7fY34f0GaURYDuZkMjPtUgbbqawU6?usp=sharing",
       "resources": "https://drive.google.com/drive/folders/1QpRY4T9H4BoOpxnkYRso1HK04OQkUffP?usp=drive_link",
@@ -24,8 +22,7 @@
         
       }]
     },
-    {
-      "title": "Programming & Data Structure",
+    {"title": "Programming & Data Structure",
       "NPTEL": "",
       "notes": "",
       "resources": "",
@@ -36,8 +33,7 @@
         
       }]
     },
-    {
-      "title": "Physics of Waves",
+    {"title": "Physics of Waves",
       "NPTEL": "https://youtube.com/playlist?list=PL30D1917C52D9F9B9&si=zpA99da780-MpIJQ",
       "notes": "",
       "resources": "",
@@ -48,8 +44,7 @@
         
       }]
     },
-    {
-      "title": "Environmental Science",
+    {"title": "Environmental Science",
       "NPTEL": "",
       "notes": "https://drive.google.com/drive/folders/1Q8Qy0gj_J3JLdeXsKTRh1T--MbEjD12G?usp=drive_link",
       "resources": "",
@@ -60,8 +55,7 @@
         
       }]
     },
-    {
-      "title": "Linear Algebra Numerical Analysis Complex Analysis",
+    {"title": "Linear Algebra Numerical Analysis Complex Analysis",
       "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMngdVprk_HvTKA_F1pe9UPlEy&si=_I7g7uSm_1E1JvWj",
       "notes": "",
       "resources": "",
@@ -72,8 +66,7 @@
         
       }]
     },
-    {
-      "title": "Electrical Technology",
+    {"title": "Electrical Technology",
       "NPTEL": "https://youtube.com/playlist?list=PLbRMhDVUMngfdEXVcdf_ijj2Eub-UHs_y&si=WwyqKi2HkqxxkDOU",
       "notes": "https://drive.google.com/drive/folders/1lqvkTpbUpL90wjF_pkQu-aPVeT5fVphO?usp=drive_link",
       "resources": "",
@@ -84,8 +77,7 @@
         
       }]
     },
-    {
-      "title": "Science of Living Systems",
+    {"title": "Science of Living Systems",
       "NPTEL": "",
       "notes": "",
       "resources": "",
